@@ -1,5 +1,7 @@
 // Employee Managment System Using JDBC Instead of MongoDB.
+// Download mysql connector from community j version, (named as mysql-connector-j-0.9.0.jar). Extract this file and save it into same directory lib/this_file.
 // Save it as EMS_JDBC.java
+// 
 
 import java.sql.*;
 import javax.swing.*;
